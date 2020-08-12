@@ -14,7 +14,6 @@ const RESOURCES = {
 "assets/NOTICES": "e7bd0d1ea68cf0ebff3fe7f45b39af66",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
-"assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
 "assets/fonts/MaterialIcons-Regular.otf": "a68d2a28c526b3b070aefca4bac93d25",
 "assets/assets/images/FullTCWhite.png": "137327d7054b8fb57b665a462e5c96ac"
 };
