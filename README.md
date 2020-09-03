@@ -4,4 +4,4 @@ The TerraCipher project aims to build integrated software solutions that turn kn
 
 The software solutions leverage heavily off tools that allow integration and they build on containerised solutions that can deliver applications through a series of micro-services.
 
-Project teams focus on analytics solutions to create knoweldge and design solution to engage action.
+Project teams focus on analytics solutions to create knowledge and design solutions to engage action.
